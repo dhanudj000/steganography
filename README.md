@@ -17,7 +17,6 @@ A magic string (#*) is allocated to the encoded file ,so it will be easy to find
 #Used softwares :
 ![image](https://github.com/dhanudj000/steganography/assets/122971572/d97a4f86-4452-4345-a238-c13a48f5be7d)
 ![image](https://github.com/dhanudj000/steganography/assets/122971572/d2d39aff-a196-476d-bf81-dc8962373902)
-
 #Learnings & Challenges :
 Understanding of pixels and header of image file by doing literature study  
 Transforming the embedded information to the destination without changing properties of original image 
