@@ -35,6 +35,17 @@ A magic string (#*) is allocated to the encoded file ,so it will be easy to find
 ![image](https://github.com/dhanudj000/steganography/assets/122971572/b362a876-368a-4161-b3e5-5a3fb1c23531)
 ![image](https://github.com/dhanudj000/steganography/assets/122971572/d2d39aff-a196-476d-bf81-dc8962373902)
 
+# output :
+Original file :
+
+![bmp](https://github.com/dhanudj000/steganography/assets/122971572/e55db5ac-b426-42dc-a8d8-eba8e3184f85)
+
+Encoded file :
+
+![out](https://github.com/dhanudj000/steganography/assets/122971572/cc26fda2-4ab6-4031-a5f5-b9e5fd04b3f2)
+
+![Screenshot (19)](https://github.com/dhanudj000/steganography/assets/122971572/c687ca9c-9160-46d9-8ee9-b59466cce85b)
+
 # Learnings & Challenges :
 
 ->Understanding of pixels and header of image file by doing literature study.
